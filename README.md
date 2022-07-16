@@ -1,0 +1,14 @@
+# Daily-code-problem-1
+Daily Coding Problem #001
+ Daily Coding Problem
+ 
+ 
+ This is a solution for Daily Code Problem. 
+
+"Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+Given a sorted list of integers, square the elements and give the output in sorted order.
+
+For example, given [-9, -2, 0, 2, 3], return [0, 4, 4, 9, 81]."
